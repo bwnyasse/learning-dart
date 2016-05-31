@@ -1,0 +1,11 @@
+#Webstorm
+.buildlog
+.DS_Store
+.idea
+
+#Dart specific
+.pub/
+build/
+packages
+.packages
+pubspec.lock
